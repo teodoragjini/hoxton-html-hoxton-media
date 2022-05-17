@@ -1,0 +1,59 @@
+.header {
+    background-color: rgb(20, 29, 56);
+    width: 100%;
+    color: white;
+    padding: 15px 30px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.menu-item {
+    margin-right: 10px;
+}
+
+.main {
+    padding: 20px 20px;
+}
+
+.main-title {
+    text-transform: uppercase;
+    color: #4b6887;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.social-item {
+    display: inline-block;
+    border: 1px solid;
+    margin-right: 30px;
+    border-radius: 5px;
+    box-shadow: 457887236;
+}
+
+.paragraph{
+    color: #4b6887;
+    
+}
+
+.subscribe{
+    border: 1px solid;
+    color:#bca239;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow:#bca239;
+
+    
+}
+
+
+
+.footer {
+    background-color:rgb(20, 29, 56);
+    color: white;
+}
